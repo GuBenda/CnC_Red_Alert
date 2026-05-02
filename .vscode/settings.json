@@ -1,0 +1,21 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.H": "cpp",
+    "*.CPP": "cpp",
+    "*.C": "c",
+    "*.INC": "asm",
+    "*.ASM": "asm",
+    "*.MAK": "makefile",
+    "*.BAT": "bat",
+    "*.PJT": "plaintext",
+    "*.IDE": "plaintext"
+  },
+  "search.exclude": {
+    "**/.git": true
+  },
+  "files.exclude": {
+    "**/.git": true
+  }
+}
